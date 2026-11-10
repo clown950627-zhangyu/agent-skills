@@ -1,0 +1,6 @@
+# 本地任务书包含原始敏感词，不应进入公开仓库
+TASK.md
+
+__pycache__/
+*.pyc
+.DS_Store
